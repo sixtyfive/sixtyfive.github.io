@@ -16,8 +16,8 @@ gem 'jekyll', '~> 4.3.4'
 # Jonathan tried these out and found them to be working.
 # Any number of themes can be installed, the active one is set in _config.yml
 #gem 'minimal-mistakes-jekyll'
-gem 'just-the-docs'
-gem 'hyde'
+#gem 'just-the-docs'
+#gem 'hyde'
 gem 'wind-theme'
 # These might look nice, but they're not Gem-bundled themes
 #gem 'beautiful-jekyll'
