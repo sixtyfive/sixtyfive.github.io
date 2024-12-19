@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blah Blah Blah
+title: "hell & schön"
+author: J. R. Schmid
 email: jrs+git@weitnahbei.de
 description: >- # this means to ignore newlines until "baseurl:"
   Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. Blah, blah blah blah, blah. 
@@ -27,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sixtyfive
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: wind-theme
 
 # Jekyll won't work without at least one plugin!
 plugins:
