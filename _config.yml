@@ -28,7 +28,10 @@ github_username: sixtyfive
 
 # Build settings
 theme: minimal-mistakes-jekyll
+
+# Jekyll won't work without at least one plugin!
 plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
